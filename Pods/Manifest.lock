@@ -1,0 +1,22 @@
+PODS:
+  - Bugly (1.4.8)
+  - CocoaLumberjack (2.0.3):
+    - CocoaLumberjack/Default (= 2.0.3)
+    - CocoaLumberjack/Extensions (= 2.0.3)
+  - CocoaLumberjack/Core (2.0.3)
+  - CocoaLumberjack/Default (2.0.3):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.3):
+    - CocoaLumberjack/Default
+
+DEPENDENCIES:
+  - Bugly (~> 1.4.8)
+  - CocoaLumberjack (~> 2.0.3)
+
+SPEC CHECKSUMS:
+  Bugly: 601c052f93759bae2c778815a380b67dabb5a0fc
+  CocoaLumberjack: f58d8a19629f4d8379ae14bb3534def24161430e
+
+PODFILE CHECKSUM: 4a9178522af6717f345bbcd9e4163d73d06c90d1
+
+COCOAPODS: 1.1.0.beta.1
